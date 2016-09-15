@@ -7,7 +7,7 @@
   	<li><a href="https://www.linkedin.com/in/jasper-horrell-64a93937">Dr Jasper Horrell</a> (Science Processing Manager at SKA SA)</li>
   	<li><a href="https://www.linkedin.com/in/datamusing">Dr Sudeep Das</a> (Senior Researcher at <a href="https://www.netflix.com/">Netflix</a>, previously data scientist at <a href="http://www.opentable.com/start/home">OpenTable</a>)</li>
   	<li><a href="https://www.linkedin.com/in/oozeer-nadeem-100776b2">Dr Nadeem Oozeer</a> (Commissioning Scientist at SKA SA)</li>
-  	<li><a href="https://www.linkedin.com/in/yabebal-fantaye-8b14b22a">Dr Yabebal Tadesse</a> (ARET &#xC9 Junior Chair at AIMS)</li>
+  	<li><a href="https://www.linkedin.com/in/yabebal-fantaye-8b14b22a">Dr Yabebal Tadesse</a> (ARETÉ Junior Chair at AIMS)</li>
   	<li><a href="https://sites.google.com/site/arunsworldonnet/home">Dr Arun Aniyan</a> (PostDoc at SKA SA)</li>
 	</ul>
 	</p>  
