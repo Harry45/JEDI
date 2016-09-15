@@ -2,6 +2,9 @@
 
 <section>
 	<p align="justify">JEDI (Joint Exchange Development Initiative) is a programme brought forward by my supervisor <a href="https://cosmoaims.wordpress.com/2010/01/01/bruce-bassett/">Prof Bruce Bassett</a> and his team. The idea is straightforward. In most of the conferences, people will normally present their work and if it happens that we go to two different conferences, coincidentally, we might eventually find the same persons giving the same presentations. Therefore, instead of spending so much money of conferences, why don't we bring all academic staffs and students together for one week and work on a completely new project? Having done so in the past few years, several projects initiated in JEDIs have not only led to publications but also, students have had the chance to continue further studies, for example, undergraduate to MSc, MSc to PhD and so forth. In short, students have been able to advance in their career. </p>
+<section>
+	<p align="justify">Now that many students have an experience of how the JEDI works, we (students) have taken the initiative to </p>
+
 
 
 
