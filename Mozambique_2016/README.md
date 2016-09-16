@@ -1,16 +1,7 @@
-<h1>Mauritius Machine Learning JEDI 2015</h1>
+<h1>Mozambique JEDI 2016</h1>
 
 <section>
-	<p align="justify">The <a href="https://sites.google.com/a/ska.ac.za/ml-jedi-mauritius/home">Mauritius Machine Learning JEDI</a> was organised from the 16<sup>th</sup> to the 26<sup>th</sup> July 2015 and was held at <a href="http://www.villasun.mu/">VILLASUN</a> thanks to the generous funding from SKA SA and the Newton Fund. We had the opportunity to work with various experts, namely, 	
-	<ul>
-  	<li><a href="https://cosmoaims.wordpress.com/2010/01/01/bruce-bassett/">Prof Bruce Bassett</a></li>
-  	<li><a href="https://www.linkedin.com/in/jasper-horrell-64a93937">Dr Jasper Horrell</a> (Science Processing Manager at SKA SA)</li>
-  	<li><a href="https://www.linkedin.com/in/datamusing">Dr Sudeep Das</a> (Senior Researcher at <a href="https://www.netflix.com/">Netflix</a>, previously data scientist at <a href="http://www.opentable.com/start/home">OpenTable</a>)</li>
-  	<li><a href="https://www.linkedin.com/in/oozeer-nadeem-100776b2">Dr Nadeem Oozeer</a> (Commissioning Scientist at SKA SA)</li>
-  	<li><a href="https://www.linkedin.com/in/yabebal-fantaye-8b14b22a">Dr Yabebal Tadesse</a> (ARETÉ Junior Chair at AIMS)</li>
-  	<li><a href="https://sites.google.com/site/arunsworldonnet/home">Dr Arun Aniyan</a> (PostDoc at SKA SA)</li>
-	</ul>
-	</p>  
+	<p align="justify">Organised from 26<sup>th</sup> to 30<sup>th</sup> September 2016.</p>
 
 
 
