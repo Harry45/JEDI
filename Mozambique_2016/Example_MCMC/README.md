@@ -3,7 +3,7 @@
 <section>
 	<p align="justify">As an example, we will use the simple Metropilis-Hastings algorithm to infer the following parameters and model.</p>
 
-<p align="center"><img src="Figures/par_equ.jpg" alt="Parameters_Equation" width="80%" height="80%"></p>
+<p align="center"><img src="Figures/par_equ.png" alt="Parameters_Equation" width="80%" height="80%"></p>
 
 
 ## Data
