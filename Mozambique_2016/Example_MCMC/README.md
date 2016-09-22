@@ -3,34 +3,10 @@
 <section>
 	<p align="justify">Organised from 26<sup>th</sup> to 30<sup>th</sup> September 2016.</p>
 
+<iframe src="data_sin.pdf" title="data" align="top" height="100%" width="100%" frameborder="0" scrolling="auto" target="Message">
+
 <p align="center"><img src="Triangle_plot.png" alt="sin_function" width="100%" height="100%"></p>
 
-
-
-
-
-
-<!--
-This is a comment
-	<p align="justify"> In words, <a></p>
-* * * *
-
-## Link to File and Webpage
-
-Link to another file in GitHub itself: [myFileName](Thesis/simple_ref.md)
-
-Link to arXiv for example: [arXiv](http://arxiv.org/)
-
-* * * *
-
-## Font Format
-
-_This creates italic text_
-
-__Whereas this creates bold texts__
-
-* * * *
--->
 
 
 
