@@ -3,6 +3,8 @@
 <section>
 	<p align="justify">Organised from 26<sup>th</sup> to 30<sup>th</sup> September 2016.</p>
 
+<p align="center"><img src="data_sin.png" alt="data" width="100%" height="100%"></p>
+
 <!--
 <iframe src="data_sin.pdf" title="data" align="top" height="100%" width="100%" frameborder="0" scrolling="auto" target="Message">
 -->
