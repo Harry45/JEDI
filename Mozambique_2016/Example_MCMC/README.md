@@ -1,9 +1,9 @@
 <h1>An Example of MCMC</h1>
 
 <section>
-	<p align="justify">As an example, we will use the simple Metropilis-Hastings algorithm to infer the following parameters and model.</p>
+	<p align="justify">As an example, we will use the simple Metropilis-Hastings algorithm to infer the following parameters from the model given below model.</p>
 
-<p align="center"><img src="Figures/par_equ.png" alt="Parameters_Equation" width="80%" height="80%"></p>
+<p align="center"><img src="Figures/par_equ.png" alt="Parameters_Equation" width="30%" height="30%"></p>
 
 
 ## Data
