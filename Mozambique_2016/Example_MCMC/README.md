@@ -7,7 +7,7 @@
 
 
 ## Data
-<p align="center"><img src="Figures/data_sin.jpg" alt="data" width="80%" height="80%"></p>
+<p align="center"><img src="Figures/data_sin.jpg" alt="data" width="60%" height="60%"></p>
 
 <!--
 <iframe src="data_sin.pdf" title="data" align="top" height="100%" width="100%" frameborder="0" scrolling="auto" target="Message">
